@@ -1,5 +1,5 @@
-JUST EAT CWA Recruitment Test
-==================================
+Consumer Web Applications Recruitment Test
+===========================================
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
@@ -37,8 +37,9 @@ This application should:
 ### Task requirements
 
 - All requirements to be completed with an appropriate level of testing.
-- Feel free to use whatever testing, mocking or stubbing frameworks you prefer, along with any other packages you like.
-- Your code should be of production quality. 
+- Feel free to use whatever javascript, testing, mocking/stubbing frameworks you prefer, along with any other packages.
+- Your code should be of production quality.
+- Please include a readme file on how to get your application up and running
  
 ##Coding Test 2
 
