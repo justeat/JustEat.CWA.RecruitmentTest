@@ -8,7 +8,7 @@ Thank you for taking the time to do our technical test. It consists of two parts
 
 ##Coding Test 1
 
-Build a web page - using whatever tools, frameworks and techniques of your choosing - to achieve as similar a result as possible to the screen grab below. You can find the required JSON data required in the accompaning file <a href="data.json">data.json</a>. 
+Build a web page - using whatever tools, frameworks and techniques of your choosing - to achieve as similar a result as possible to the screen grab below. YYou can find the required JSON data required in the accompanying file: <a href="data.json">data.json</a>. 
 
 ![Expected Result](result.gif)
 
