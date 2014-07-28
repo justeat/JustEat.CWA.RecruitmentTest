@@ -3,12 +3,8 @@ Consumer Web UI Applications Recruitment Test
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
-* Coding test
+* Coding test X2
 * A few questions
-
-# Coding Test
-
-We have included an example of the output in <a>data.json</a>, please feel free use this directly rather than referencing our public API.
 
 ##Coding Test 1
 
