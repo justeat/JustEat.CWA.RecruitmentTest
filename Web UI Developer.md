@@ -13,7 +13,7 @@ We have included an example of the output in <a>data.json</a>, please feel free 
 ##Coding Test 1
 
 Build a web page - using whatever tools, frameworks and techniques of your choosing - to achieve as similar a result as possible to the screen grab below. You can find the required JSON data required in the accompaning file <a>data.json</a>. 
-<image src="result.png"></image>
+[alt text](result.png "Result")
 
 This Page should:
 
