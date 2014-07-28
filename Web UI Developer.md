@@ -12,6 +12,7 @@ Build a web page - using whatever tools, frameworks and techniques of your choos
 
 ![Expected Result](result.gif)
 
+### Task requirements
 This Page should:
 
 1. allow users to view and filter restaurants
@@ -19,16 +20,12 @@ This Page should:
 	* Name
 	* Average rating
 	* Restaurant logo
-	* Cuisine Types
-3. allow users to sort results by Name or Average rating (Client Side)
+3. allow users to sort results by Name or Average rating
 
-### Task requirements
+* All requirements to be completed with an appropriate level of testing.
+* Your code should be of production quality.
+* Please include a readme file on how to get your application up and running
 
-- All requirements to be completed with an appropriate level of testing.
-- Feel free to use whatever javascript, testing, mocking/stubbing frameworks you prefer, along with any other packages.
-- Your code should be of production quality.
-- Please include a readme file on how to get your application up and running
- 
 ##Coding Test 2
 
 Write a function that will pass the following Jasmine test for a basket total calculator (please feel free to extend the test criteria to ensure it is fit for purpose).
