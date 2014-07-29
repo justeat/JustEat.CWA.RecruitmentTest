@@ -21,6 +21,7 @@ This Page should:
 	* Average rating
 	* Restaurant logo
 3. allow users to sort results by Name or Average rating
+4. be responsive 
 
 * All requirements to be completed with an appropriate level of testing.
 * Your code should be of production quality.
