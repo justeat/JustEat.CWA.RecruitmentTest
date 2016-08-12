@@ -11,7 +11,7 @@ Please:
 * Use external scripts and css files.
 * Don't pollute the global object (Only one should be required for the namespace you choose)
 * Test drive the code via unit tests (Jasmine or an equivalent)
-* Should work in IE7+ as well as more modern browsers.
+* Should work in IE8+ as well as more modern browsers.
 
 # Questions
 
